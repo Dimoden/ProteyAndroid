@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'ru.protey.ivanovii'
+    namespace 'ru.protey.shetenyukda'
     compileSdk 33
 
     defaultConfig {
-        applicationId "ru.protey.ivanovii"
+        applicationId "ru.protey.shetenyukda"
         minSdk 24
         targetSdk 33
         versionCode 1
